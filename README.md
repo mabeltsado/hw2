@@ -15,9 +15,13 @@ A concise, structured executive summary that highlights key themes, user pain po
 ## Why Automate This
 Synthesizing qualitative research is time-consuming and prone to inconsistency. Researchers often spend hours distilling interviews into reports, leaving less time for actual research. Automating this step ensures faster turnaround, consistent formatting, and removes the cognitive load of translating raw data into leadership-ready language — making it easier to act on insights before they go stale.
 
+## Demo
+https://youtu.be/ZPQqbpkMKn0
+
 ## Commit History
 | Commit | Description |
 |---|---|
+| `c52c167` | Add commit history to README |
 | `591972e` | Add final report |
 | `49a9ddb` | Add output files from app testing |
 | `bf1359f` | Fix model to claude-haiku-4-5-20251001 |
