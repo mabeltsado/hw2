@@ -78,7 +78,7 @@ def main():
 
     parser.add_argument("--output", type=str, default="output.md", help="Output file path (default: output.md)")
     parser.add_argument("--system-prompt", type=str, default=DEFAULT_SYSTEM_PROMPT, help="Custom system prompt for the LLM")
-    parser.add_argument("--model", type=str, default="claude-3-5-haiku-20241022", help="Claude model to use")
+    parser.add_argument("--model", type=str, default="claude-haiku-4-5-20251001", help="Claude model to use")
 
     args = parser.parse_args()
 
